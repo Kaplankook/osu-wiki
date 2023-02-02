@@ -1,6 +1,6 @@
 # Czechoslovak osu! Tournaments
 
-Index page for all of the {SERIES_TITLE} series.
+Index page for all of the official Czechoslovak tournaments.
 
 - [Mistrovství České a Slovenské republiky 2020](1v1 2020)
 - [Československý týmový turnaj 2020](2v2 2020)
