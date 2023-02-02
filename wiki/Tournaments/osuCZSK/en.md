@@ -2,7 +2,7 @@
 
 Index page for all of the official Czechoslovak tournaments.
 
-- [Mistrovství České a Slovenské republiky 2020](wiki/Tournaments/osuCZSK/1v12020/en.md)
+- [Mistrovství České a Slovenské republiky 2020](1v12020)
 - [Československý týmový turnaj 2020](2v2 2020)
 - [Mistrovství České a Slovenské republiky 2021](1v1 2021)
 - [Československý týmový turnaj 2022](2v2 2022)
